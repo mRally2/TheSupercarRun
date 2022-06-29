@@ -18,6 +18,7 @@
    <ul>
       <li>Open the game before using the tool</li>
       <li>Enable it by pressing F12 preferably before the PRESS ENTER screen</li>
+      <li>Wait a couple of minutes or so for all scripts to be enabled</li>
       <li>Do not close the tool once in-game, let the tool work in the background as you play</li>
       <li>It’s compatible with Extra UI Options</li>
    </ul>
