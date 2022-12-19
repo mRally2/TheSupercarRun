@@ -46,6 +46,9 @@
    <hr>
    <ul>
       <li>This take of the game is thought of as an alternative to the original story mode. If you have never played it before then I suggest you do that first since the speed and complexity you are facing in this version might discourage you to continue playing</li>
+      <li>Cheat table containing the source code which the trainer has been built with is available inside the Code folder</li>
+      <li>By using any piece of code code shared here you agree to credit the respective author once your mod or tool gets released to the public</li>
+      <li>You are allowed to repost or reference this mod in any modding website that hasn’t been published on yet if and only if you follow the same design and structure used here</li>
       <li>Your antivirus might detect it as a threat. It’s a false positive. The tool has been built using a custom compiled version of Cheat Engine 7.3</li>
       <li>I am not responsible for any damage caused to your system by this tool so use it at your own risk</li>
       <li>I do not own the rights of the art shown on the cover and thumbnail of this product. It’s a fan art for illustrating the purpose of the product itself. All rights reserved to Electronic Arts Inc.</li>
